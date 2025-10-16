@@ -10,7 +10,7 @@ from tkinter import scrolledtext, messagebox, simpledialog
 
 # --- CONFIGURATION ---
 HOST = '0.0.0.0'  # Listen on all available network interfaces
-PORT = 9989
+PORT = 9999
 DB_NAME = "secure_file_transfer.db"
 RECEIVED_FILES_DIR = "received_files"
 
